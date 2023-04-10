@@ -4,7 +4,6 @@
 ## テスト
 ### 演奏
 - [とりあえず演奏](https://snowdrops89.github.io/DoReMi_nako3/test/test0.html)
-
 ※画面をクリックすると演奏します。
 ```
 「ドレミファソラシ`ドー」をドレミ演奏。
@@ -15,3 +14,6 @@
 - [ダミートラックでカラオケ表示](https://snowdrops89.github.io/DoReMi_nako3/test/test3.html)
 
 > 漢字や拗音など主旋律の音符と歌詞の文字数が合わない時もカラオケ表示させる。
+
+### 波形描画
+- [波形描画](https://snowdrops89.github.io/DoReMi_nako3/test/test4.html)
