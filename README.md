@@ -17,3 +17,5 @@
 
 ### 波形描画
 - [波形描画](https://snowdrops89.github.io/DoReMi_nako3/test/test4.html)
+
+> 時間領域(TimeDomain)の波形と周波数領域(Frequency)の波形を表示。
